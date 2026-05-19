@@ -1,14 +1,9 @@
 {
-  "latest_version": "1.0.0",
-  "minimum_supported_version": "1.0.0",
-  "release_date": "2024-05-20",
-  "download_url": "https://github.com/cheng1260/PicBatchAutoRenamer/releases/download/v1.0.0/PicBatchAutoRenamer.v1.0.0.exe",
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/cheng1260/PicBatchAutoRenamer/releases/download/v1.0.1/PicBatchAutoRenamer.exe", // 改成新Release的下载地址
   "update_log": [
-    "✅ 初始版本发布",
-    "✅ 支持5段式自定义命名",
-    "✅ 支持拖拽多张图片",
-    "✅ 无损导出功能"
-  ],
-  "announcement": "🎉 欢迎使用批量图片重命名工具！如有问题请联系开发者。",
-  "announcement_level": "info"
+    "✅ 修复公告栏遮挡问题",
+    "✅ 新增帮助菜单跳转GitHub",
+    "✅ 优化界面布局"
+  ]
 }
