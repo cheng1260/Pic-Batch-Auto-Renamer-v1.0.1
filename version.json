@@ -10,5 +10,5 @@
     "✅ 无损导出功能"
   ],
   "announcement": "🎉 欢迎使用批量图片重命名工具！如有问题请联系开发者。",
-  "announcement_level": "info" // 可选值：info(蓝色)/warning(黄色)/error(红色)
+  "announcement_level": "info"
 }
